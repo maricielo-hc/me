@@ -1,3 +1,3 @@
 git add .
 git commit -m "mensaje"
-git push 
+git push origin rama-2
